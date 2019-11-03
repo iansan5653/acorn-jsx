@@ -12,9 +12,6 @@
     "test": "node test/run.js"
   },
   "peerDependencies": {
-    "acorn": "^6.0.0"
-  },
-  "devDependencies": {
-    "acorn": "^7.0.0"
+    "acorn-6": "^6.0.0"
   }
 }
