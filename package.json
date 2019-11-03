@@ -11,7 +11,7 @@
   "scripts": {
     "test": "node test/run.js"
   },
-  "peerDependencies": {
-    "acorn-6": "^6.0.0"
+  "dependencies": {
+    "acorn": "^6.0.0"
   }
 }
